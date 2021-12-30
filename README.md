@@ -6,9 +6,9 @@
 
 <div align="left">
   <a href="https://github.com/R0cs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R0cs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=r0cs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0cs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0cs&layout=compact&langs_count=7&theme=dark"/>
    
 </div>
   
@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/rafael-comar-19b3a1a2/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  <a href="https://github.com/R0cs">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
   </div>  
   <!--
 **R0cs/R0cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
