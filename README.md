@@ -2,7 +2,7 @@
 
 ## I am Rafael
 
-- 🌱 I’m currently learning FrontEnd
+- 🌱 I’m currently looking for a FrontEnd job
 
 <div align="left">
   <a href="https://github.com/R0cs">
